@@ -1,0 +1,280 @@
+{
+  "business_identity": {
+    "legal_name": "Sharma & Associates, Chartered Accountants",
+    "trade_name": "Sharma CA Services",
+    "firm_type": "Partnership Firm (Registered with ICAI)",
+    "firm_registration_no": "ICAI/FRN/012345N",
+    "gstin": "03ABCDE1234F1Z5",
+    "pan": "ABCDE1234F",
+    "established_year": 2012,
+    "years_of_experience": 13,
+    "offices": {
+      "head": {
+        "address": "SCO 45, 2nd Floor, Sector 17-C",
+        "city": "Chandigarh",
+        "state": "Punjab",
+        "pincode": "160017",
+        "country": "India"
+      },
+      "branch": {
+        "address": "Plot 12, Model Town",
+        "city": "Ludhiana",
+        "state": "Punjab",
+        "pincode": "141002",
+        "country": "India"
+      }
+    },
+    "google_maps_url": "https://maps.google.com/?q=Sharma+CA+Sector+17"
+  },
+
+  "key_personnel": {
+    "founder": {
+      "name": "CA Rahul Sharma",
+      "membership_no": "098765",
+      "qualifications": [
+        "Chartered Accountant (ICAI)",
+        "B.Com (Hons), Delhi University"
+      ],
+      "experience_years": 13,
+      "specializations": [
+        "GST Advisory",
+        "Income Tax Planning",
+        "Startup Compliance"
+      ]
+    },
+    "partners": [
+      {
+        "name": "CA Neha Gupta",
+        "role": "Audit Specialist",
+        "experience_years": 5
+      },
+      {
+        "name": "CA Amit Verma",
+        "role": "ROC & Company Law",
+        "experience_years": 7
+      }
+    ],
+    "support_team": {
+      "article_assistants": 3,
+      "account_executives": 2,
+      "crm_manager": 1
+    }
+  },
+
+  "contact_details": {
+    "phones": {
+      "primary": "+91 98765 43210",
+      "secondary": "+91 98123 45678"
+    },
+    "whatsapp": "+91 98765 43210",
+    "email": {
+      "general": "info@sharmaca.com",
+      "support": "support@sharmaca.com"
+    },
+    "website": "https://www.sharmaca.com"
+  },
+
+  "working_hours": {
+    "weekdays": "Monday – Saturday, 10:00 AM – 7:00 PM",
+    "sunday": "Closed",
+    "emergency_support_available": true
+  },
+
+  "target_clients": {
+    "segments": [
+      "Startups & Entrepreneurs",
+      "Small & Medium Businesses",
+      "Freelancers",
+      "Salaried Individuals",
+      "E-commerce Sellers"
+    ],
+    "industries": [
+      "Retail",
+      "IT Services",
+      "Manufacturing",
+      "Real Estate",
+      "Healthcare"
+    ]
+  },
+
+  "services": {
+    "gst": [
+      "GST Registration",
+      "GST Return Filing (Monthly/Quarterly)",
+      "GST Annual Return",
+      "GST Notice Handling",
+      "GST Advisory & Consultation"
+    ],
+    "income_tax": [
+      "ITR Filing (Salaried & Business)",
+      "Tax Planning & Optimization",
+      "Advance Tax Computation",
+      "Income Tax Notice Handling",
+      "Capital Gains Advisory"
+    ],
+    "business_registration": [
+      "Proprietorship",
+      "Partnership Firm",
+      "LLP (Limited Liability Partnership)",
+      "Private Limited Company",
+      "One Person Company (OPC)"
+    ],
+    "roc_compliance": [
+      "ROC Annual Filing",
+      "Director KYC (DIR-3 KYC)",
+      "Company Strike-Off / Closure",
+      "Share Transfer"
+    ],
+    "accounting": [
+      "Bookkeeping & Ledger Maintenance",
+      "Financial Statement Preparation",
+      "Tally ERP Setup & Training"
+    ],
+    "audit": [
+      "Statutory Audit",
+      "Tax Audit (u/s 44AB)",
+      "Internal Audit"
+    ],
+    "other_registrations": [
+      "MSME / Udyam Registration",
+      "PAN & TAN Application",
+      "Digital Signature Certificate (DSC)",
+      "Import Export Code (IEC)"
+    ]
+  },
+
+  "pricing": {
+    "note": "All prices are inclusive of professional fees. Govt. fees charged separately.",
+    "gst": {
+      "registration": 1499,
+      "monthly_filing": 999,
+      "quarterly_filing": 2499,
+      "annual_return_gstr9": 4999
+    },
+    "income_tax": {
+      "itr_salaried": 499,
+      "itr_business": 1499,
+      "consultation_per_hour": 999
+    },
+    "business_registration": {
+      "proprietorship": 1999,
+      "partnership_firm": 4999,
+      "llp": 7999,
+      "private_limited_company": 14999,
+      "opc": 9999
+    },
+    "compliance": {
+      "roc_annual_filing_starting_at": 3000,
+      "annual_compliance_package_starting_at": 5000
+    },
+    "discounts": {
+      "bulk_discount": "Up to 15% on bundled services",
+      "startup_packages_available": true,
+      "referral_discount": "5% on next invoice"
+    }
+  },
+
+  "documents_required": {
+    "gst_registration": [
+      "PAN Card (Business & Owner)",
+      "Aadhaar Card",
+      "Business Address Proof",
+      "Cancelled Cheque / Bank Statement",
+      "Business Registration Proof (if any)"
+    ],
+    "itr_filing": [
+      "PAN Card",
+      "Aadhaar Card",
+      "Form 16 (for salaried)",
+      "Bank Statements (last FY)",
+      "Investment Proofs (80C, 80D, etc.)"
+    ],
+    "company_registration": [
+      "Director / Partner ID Proof (PAN + Aadhaar)",
+      "Latest Address Proof (utility bill, < 2 months old)",
+      "Passport-size Photographs",
+      "Registered Office Address Proof"
+    ]
+  },
+
+  "turnaround_time": {
+    "gst_registration": "3–5 working days",
+    "itr_filing": "1–2 working days",
+    "company_registration": "7–10 working days",
+    "roc_filing": "3–5 working days"
+  },
+
+  "policies": {
+    "payment_terms": "50% advance required to initiate work; balance before final delivery",
+    "refund_policy": "No refund once work has been initiated",
+    "confidentiality": "Strict client data confidentiality maintained at all times",
+    "data_security": "All client documents stored securely with restricted access"
+  },
+
+  "online_links": {
+    "pricing_page": "https://sharmaca.com/pricing",
+    "document_upload": "https://sharmaca.com/upload",
+    "appointment_booking": "https://sharmaca.com/book",
+    "whatsapp_chat": "https://wa.me/919876543210"
+  },
+
+  "faqs": [
+    {
+      "question": "Do you provide services outside Punjab?",
+      "answer": "Yes, we serve clients pan-India through our fully online process."
+    },
+    {
+      "question": "Can I file ITR without Form 16?",
+      "answer": "Yes, ITR can be filed using bank statements, salary slips, and AIS/TIS from the income tax portal."
+    },
+    {
+      "question": "Do you assist in handling GST notices?",
+      "answer": "Absolutely. We provide end-to-end support for GST notices including drafting replies and appearing before the officer."
+    },
+    {
+      "question": "How do I share my documents with you?",
+      "answer": "You can upload documents securely at sharmaca.com/upload or share via WhatsApp."
+    },
+    {
+      "question": "What is the last date to file ITR?",
+      "answer": "For most individuals, the deadline is July 31st of the assessment year. We recommend filing early to avoid penalties."
+    },
+    {
+      "question": "Do you offer a free consultation?",
+      "answer": "Yes, we offer a free 15-minute initial consultation. Book your slot at sharmaca.com/book."
+    },
+    {
+      "question": "Can you help register my startup?",
+      "answer": "Yes, we specialize in startup compliance including company registration, GST, and ongoing ROC filings."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept UPI, bank transfer, and all major payment apps. A payment link is shared on confirmation."
+    }
+  ],
+
+  "ai_assistant_guidelines": {
+    "tone": "Professional, warm, and slightly persuasive",
+    "language": "Simple and jargon-free English; switch to Hindi/Punjabi if client initiates",
+    "greeting": "Always greet with firm trade name on first message",
+    "rules": [
+      "Answer only based on the data provided — never fabricate information",
+      "Provide exact pricing when asked; mention govt. fees are extra if applicable",
+      "Suggest the most relevant service based on the client's query",
+      "Ask a follow-up question if the query is vague",
+      "Always offer WhatsApp or booking link when closing a conversation",
+      "If information is unavailable, say: 'Please contact us directly for details'"
+    ],
+    "escalation_trigger": "If client is confused or asks for a human, offer: 'Would you like to schedule a call with our CA?'"
+  },
+
+  "ivr_conversation_flow": [
+    "1. Greet client with firm name",
+    "2. Ask: What can I help you with today?",
+    "3. Identify the service category (GST / ITR / Registration / Other)",
+    "4. Provide relevant pricing and turnaround time",
+    "5. List documents required",
+    "6. Share booking or WhatsApp link",
+    "7. Offer human CA support if needed"
+  ]
+}
