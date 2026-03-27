@@ -3,4 +3,3 @@ uvicorn
 httpx
 vosk
 edge-tts
-audioop
